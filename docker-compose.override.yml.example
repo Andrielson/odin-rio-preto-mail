@@ -7,6 +7,7 @@ networks:
 
 services:
   server:
+    container_name: odin_rio_preto_mail
     ports:
       - "8000:80"
     volumes:
