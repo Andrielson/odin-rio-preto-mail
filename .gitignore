@@ -1,4 +1,5 @@
 *
+!assets/
 !templates/
 !.gitignore
 !docker-compose.override.yml.example

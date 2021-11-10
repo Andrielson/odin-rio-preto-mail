@@ -11,6 +11,6 @@ services:
       - "8000:80"
     volumes:
       - type: bind
-        source: ./templates
+        source: .
         target: /usr/share/nginx/html/
         read_only: true
