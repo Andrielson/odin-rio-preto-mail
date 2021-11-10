@@ -1,5 +1,5 @@
 version: "2.4"
 
 services:
-  mail:
+  server:
     image: nginx:alpine

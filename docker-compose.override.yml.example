@@ -6,7 +6,7 @@ networks:
     name: andrielson
 
 services:
-  mail:
+  server:
     ports:
       - "8000:80"
     volumes:
